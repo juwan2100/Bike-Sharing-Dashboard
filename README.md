@@ -11,4 +11,5 @@ Bike Sharing analytics Dashboard
 3.Problem 
 The seller wants to know where and who should they advertise their bikes to.
 
-Example:
+Example:https://github.com/juwan2100/Bike-Sharing-Dashboard/blob/main/Screenshot%20bikes.png
+
